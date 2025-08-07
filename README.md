@@ -1,5 +1,8 @@
 # LangChain for LLM Application Development
-Visit the course on Deeplearning.ai: https://learn.deeplearning.ai/courses/langchain/lesson/u9olq/introduction
+<a href="https://learn.deeplearning.ai/accomplishments/4d2cc912-7f7d-4d9e-9efb-1f7887247f2e?usp=sharing" target="_blank">
+  Bùi Quang Tấn Kiệt, congratulations on completing LangChain for LLM Application Development!
+  <img width="1088" height="196" alt="trello com_c_8684mj6V_25-langchain-for-llm-application-development" src="https://github.com/user-attachments/assets/7a8c0acf-a547-4181-8f50-7d7e14bfb128" />
+</a>
 
 ### Lesson 1: Model, Prompts and Parser <a target="_blank" href="https://colab.research.google.com/github/bqtankiet/langchain-llm-course/blob/main/L1_Model_prompt_parser.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
